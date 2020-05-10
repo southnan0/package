@@ -1,0 +1,16 @@
+{
+  "name": "projectHandler",
+  "version": "1.0.0",
+  "description": "handle multilple project start",
+  "main": "index.js",
+  "author": "southnan0",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "child_process": "^1.0.2",
+    "crypto-js": "^4.0.0",
+    "inquirer": "^7.1.0",
+    "nodegit": "^0.26.5",
+    "request": "^2.88.2"
+  }
+}

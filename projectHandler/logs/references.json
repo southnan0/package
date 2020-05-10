@@ -1,0 +1,11 @@
+{
+  "references": [
+    "refs/heads/master",
+    "refs/remotes/origin/dev-20191203",
+    "refs/remotes/origin/dev-20191203-czn",
+    "refs/remotes/origin/master",
+    "refs/tags/v1.0.1",
+    "refs/tags/v1.1",
+    "refs/tags/v1.1-20200415-1658"
+  ]
+}
